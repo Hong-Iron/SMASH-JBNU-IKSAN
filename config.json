@@ -1,0 +1,53 @@
+{
+  "code": "JBNU-IKSAN",
+  "title": "SMASH JBNU IKSAN",
+  "school": "전북대",
+  "fullName": "전북대학교",
+  "campusName": "전북대학교 익산캠퍼스",
+  "tagline": "전북대를 부셔 (시험기간 스트레스 해소)",
+  "description": "전북대학교 익산캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 전북대학교 익산캠퍼스 3D 화면과 SMASH JBNU IKSAN 제목",
+  "url": "https://hong-iron.github.io/SMASH-JBNU-IKSAN/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 777048285
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        35.9427076,
+        126.96365
+      ],
+      "n": "",
+      "why": "학교 건물 아님 — 고봉로 길가의 작은 개인 땅(마동 146-1, 대지)에 있는 파란 지붕 상가 건물의 동쪽 끝이라 학교 건물이 아니다."
+    },
+    {
+      "at": [
+        35.9427672,
+        126.9633796
+      ],
+      "n": "1동",
+      "why": "학교 건물 아님 — 건축물대장에 '최병조건물 1동'으로 올라 있는 2004년 개인 근린생활시설이고, 학교 땅이 아닌 마동 146-1 대지에 있다."
+    }
+  ],
+  "look": {
+    "체육관동": {
+      "style": "stone",
+      "wall": "#ece6dc",
+      "glass": "#515a62",
+      "frame": "#c9c9c6",
+      "roof": "#2d2e2b",
+      "hip": true
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
